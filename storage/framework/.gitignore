@@ -1,0 +1,6 @@
+compiled.php
+cache/
+testing/
+sessions/
+!data/
+!.gitignore
