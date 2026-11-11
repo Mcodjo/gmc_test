@@ -11,7 +11,7 @@ class CategorySeeder extends Seeder
     {
         $categories = [
             [
-                'name' => 'Électronique',
+                'name' => 'Electronique',
                 'slug' => 'electronique',
                 'description' => 'Montres connectées, gadgets et accessoires high-tech.',
                 'image' => '/images/categories/electronique.jpg',
@@ -23,7 +23,7 @@ class CategorySeeder extends Seeder
                 'image' => '/images/categories/sacs.jpg',
             ],
             [
-                'name' => 'Livres Numériques',
+                'name' => 'Livres Numeriques',
                 'slug' => 'livres-numeriques',
                 'description' => 'E-books, guides et formations numériques.',
                 'image' => '/images/categories/livres.jpg',
